@@ -1,7 +1,7 @@
 @echo off
-set /p COUNT=ÇëÊäÈë²âÊÔ´ÎÊý£º
+set /p COUNT=è¯·è¾“å…¥æµ‹è¯•æ¬¡æ•°ï¼š
 
-echo Ê¹ÓÃ±äÁ¿´«µÝ²ÎÊý...
+echo ä½¿ç”¨å˜é‡ä¼ é€’å‚æ•°...
 python tp_test.py %COUNT%
 
 pause
