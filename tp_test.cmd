@@ -1,7 +1,6 @@
 @echo off
-set /p COUNT=请输入测试次数：
+set /p COUNT=Please enter the number of tests:
 
-echo 使用变量传递参数...
 python tp_test.py %COUNT%
 
 pause
